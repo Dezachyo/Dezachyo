@@ -29,6 +29,15 @@ Beyond the lab, I apply my data science toolkit to real-world challenges—from 
 - Guided engineering students through the implementation of machine learning models to decode memory-related brain states.
 - *Keywords: Machine Learning, EEG, Neural Decoding, Project Mentorship*
 
+#### (🌊 Clarity Map)
+
+Full-Stack Data App | Citizen Science for Divers
+
+Built a web app for Israeli Mediterranean divers to crowdsource underwater visibility reports, visualized as an interactive heatmap on a live Leaflet map.
+Designed end-to-end: FastAPI backend, geo-validation with Shapely, Google Sheets as a lightweight database, deployed on Fly.io.
+Added automated hourly scraping of Windguru marine forecasts (wind + swell from GFS models) to build a dataset for future clarity prediction modeling.
+Keywords: FastAPI, Geospatial Analysis, Web Scraping, Leaflet.js, Google Sheets API, Fly.io
+
 ---
 
 ### 📫 Let's Connect
